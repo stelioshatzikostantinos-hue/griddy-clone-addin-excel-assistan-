@@ -6,7 +6,7 @@
            xsi:type="TaskPaneApp">
   <Id>6f1c2a9e-3b7d-4e5a-9c8f-1a2b3c4d5e6f</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>Your Name</ProviderName>
+  <ProviderName>griddy-clone-addin-excel-assistan-</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Sheet Assistant" />
   <Description DefaultValue="Ask questions and get formulas for your workbook." />
