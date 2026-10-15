@@ -10,17 +10,17 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Sheet Assistant" />
   <Description DefaultValue="Ask questions and get formulas for your workbook." />
-  <IconUrl DefaultValue="https://YOUR-HOST/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://YOUR-HOST/icon-80.png" />
-  <SupportUrl DefaultValue="https://YOUR-HOST/" />
+  <IconUrl DefaultValue=https://github.com/stelioshatzikostantinos-hue/griddy-clone-addin-excel-assistan-/>
+  <HighResolutionIconUrl DefaultValue=https://github.com/stelioshatzikostantinos-hue/griddy-clone-addin-excel-assistan-/>
+  <SupportUrl DefaultValue=https://github.com/stelioshatzikostantinos-hue/griddy-clone-addin-excel-assistan- />
   <AppDomains>
-    <AppDomain>https://YOUR-HOST</AppDomain>
+    <AppDomain>https://github.com/stelioshatzikostantinos-hue/griddy-clone-addin-excel-assistan->
   </AppDomains>
   <Hosts>
     <Host Name="Workbook" />
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://YOUR-HOST/taskpane.html" />
+    <SourceLocation DefaultValue=https://github.com/stelioshatzikostantinos-hue/griddy-clone-addin-excel-assistan-/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
