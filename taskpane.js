@@ -1,6 +1,6 @@
 // Calls the local Ollama server directly. No extra program needed.
 const OLLAMA_URL = "http://localhost:11434/api/chat";
-const MODEL = "qwen2.5:7b";
+const MODEL = "qwen2.5:3b";
 const MAX_CELLS = 2000;
 
 const SYSTEM_PROMPT = `You help with Excel spreadsheets.
